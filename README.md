@@ -2,13 +2,13 @@
 
 ## Latihan1.cpp : Buatlah algoritma untuk menentukan nilai maksimum dan nilai minimum dari n bilangan bulat dengan menggunakan array.
 
-Alur algoritma
+**Alur algoritma**
 
 1.Mendeklarasikan variabel `int nilai[3],a,min,maks;` sebagai variable input.
 2.Membaca input dari keyboard `else if(nilai[a] > maks)`
 3.Membandingkan nilai variable //output minimum dan maksimum
 
-CODE PROGRAM
+**CODE PROGRAM**
 
 ```c++
 /*Program mancari nilai minimum dan maksimum*/
@@ -44,20 +44,20 @@ main()
 getch();
 return 0;
 }
+```
+![Screeshoot](https://raw.githubusercontent.com/Inkamanik/Praktikum8/master/Latihan1/Ss1.png)
 
-![Screeshoot](
-
-![Flowchart](
+![Flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum8/master/Latihan1/Flowchart1.png)
 
 ## Latihan2.cpp : Tentukan modus dari n buah bilangan bulat, dimana besar datanya antara 1 sampai dengan 10.
 
-Alur algoritma
+**Alur algoritma**
 
 1.Mendeklarasikan variabel 'class HitungStatistik' sebagai variable input.
 2.Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'
 3.Membandingkan nilai variable HitungStatistik run;
 
-CODE PROGRAM
+**CODE PROGRAM**
 
 ```c++
 #include <iostream>
@@ -129,14 +129,14 @@ cin >> run;
 cout << run;
 return 0;
 }
+```
+![Screeshoot](https://raw.githubusercontent.com/Inkamanik/Praktikum8/master/Latihan2/Ss2.png)
 
-![Screeshoot](
-
-![Flowchart](
+![Flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum8/master/Latihan2/Flowchart2.png)
 
 ## Latihan3.cpp : Buatlah algoritma dan program untuk mengalikan dua buah matriks.
 
-Alur algoritma
+**Alur algoritma**
 
 1.Mendeklarasikan variabel `//input matrik pertama void matrik_1(){` sebagai variable input.
 2.Membaca input dari keyboard `//output matrik pertama cout<<"Matrik Pertama :"<<endl;`
@@ -148,7 +148,7 @@ Alur algoritma
  			}
 
 
-CODE PROGRAM
+**CODE PROGRAM**
 
 ```c++
 #include <iostream>
@@ -253,20 +253,20 @@ hasil();
 getch();
 return 0;
 }
+```
+![Screenshoot](https://raw.githubusercontent.com/Inkamanik/Praktikum8/master/Latihan3/Ss3.png)
 
-![Screenshoot](
-
-![Flowchart](
+![Flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum8/master/Latihan3/Flowchart3.png)
 
 ## Latihan4.cpp : Buatlah algortima dan program untuk menghasilkan transpose suatu matriks.
 
-Alur algoritma
+**Alur algoritma**
 
-1.Mendeklarasikan variabel 'int main(int argc, char *argv[]' sebagai variable input.
-2.Membaca input dari keyboard 'int a[10][10],m,n,i,j;'
+1.Mendeklarasikan variabel `int main(int argc, char *argv[]` sebagai variable input.
+2.Membaca input dari keyboard `int a[10][10],m,n,i,j;`
 3.Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
 
-CODE PROGRAM 
+**CODE PROGRAM** 
 
 ```c++
 #include <cstdlib>
@@ -316,6 +316,6 @@ system("PAUSE");
 return EXIT_SUCCESS;
 }
 
-![Screenshoot](
+![Screenshoot](https://raw.githubusercontent.com/Inkamanik/Praktikum8/master/Latihan4/Ss4.png)
 
-![Flowchart](
+![Flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum8/master/Latihan4/Flowchart4.png)
