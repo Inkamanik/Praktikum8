@@ -311,7 +311,7 @@ cout<<endl<<endl;
 system("PAUSE");
 return EXIT_SUCCESS;
 }
-
+```
 ![Screenshoot](https://raw.githubusercontent.com/Inkamanik/Praktikum8/master/Latihan4/Ss4.png)
 
 ![Flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum8/master/Latihan4/Flowchart4.png)
