@@ -3,9 +3,9 @@
 ## Latihan1.cpp : Buatlah algoritma untuk menentukan nilai maksimum dan nilai minimum dari n bilangan bulat dengan menggunakan array.
 
 **Alur algoritma**
-1.Mendeklarasikan variabel `int nilai[3],a,min,maks;` sebagai variable input.
-2.Membaca input dari keyboard `else if(nilai[a] > maks)`
-3.Membandingkan nilai variable //output minimum dan maksimum
+1. Mendeklarasikan variabel `int nilai[3],a,min,maks;` sebagai variable input.
+2. Membaca input dari keyboard `else if(nilai[a] > maks)`
+3. Membandingkan nilai variable //output minimum dan maksimum
 
 **CODE PROGRAM**
 
@@ -51,9 +51,9 @@ return 0;
 ## Latihan2.cpp : Tentukan modus dari n buah bilangan bulat, dimana besar datanya antara 1 sampai dengan 10.
 
 **Alur algoritma**
-1.Mendeklarasikan variabel 'class HitungStatistik' sebagai variable input.
-2.Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'
-3.Membandingkan nilai variable HitungStatistik run;
+1. Mendeklarasikan variabel 'class HitungStatistik' sebagai variable input.
+2. Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'
+3. Membandingkan nilai variable HitungStatistik run;
 
 **CODE PROGRAM**
 
@@ -135,9 +135,9 @@ return 0;
 ## Latihan3.cpp : Buatlah algoritma dan program untuk mengalikan dua buah matriks.
 
 **Alur algoritma**
-1.Mendeklarasikan variabel `//input matrik pertama void matrik_1(){` sebagai variable input.
-2.Membaca input dari keyboard `//output matrik pertama cout<<"Matrik Pertama :"<<endl;`
-3.Membandingkan nilai variable main (){ matrik_1(); matrik_2();
+1. Mendeklarasikan variabel `//input matrik pertama void matrik_1(){` sebagai variable input.
+2. Membaca input dari keyboard `//output matrik pertama cout<<"Matrik Pertama :"<<endl;`
+3. Membandingkan nilai variable main (){ matrik_1(); matrik_2();
 
  			hasil();
  			getch();
@@ -258,9 +258,9 @@ return 0;
 ## Latihan4.cpp : Buatlah algortima dan program untuk menghasilkan transpose suatu matriks.
 
 **Alur algoritma**
-1.Mendeklarasikan variabel `int main(int argc, char *argv[]` sebagai variable input.
-2.Membaca input dari keyboard `int a[10][10],m,n,i,j;`
-3.Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
+1. Mendeklarasikan variabel `int main(int argc, char *argv[]` sebagai variable input
+2. Membaca input dari keyboard `int a[10][10],m,n,i,j;`
+3. Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
 
 **CODE PROGRAM** 
 
